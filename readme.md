@@ -32,15 +32,16 @@ WAAVI is a web development studio based in Madrid, Spain. You can learn more abo
 
 ## Laravel compatibility
 
- Laravel  | translation
-:---------|:----------
- 4.x  	  | 1.0.x
- 5.0.x    | 2.0.x
- 5.1.x\|5.3.x | 2.1.x
- 5.4.x    | 2.2.x
- 5.5.x    | 2.3.x and higher
- 5.6.x    | 2.3.x and higher
- 6.x\|7.x     | 2.4.x and higher
+ Laravel                    | translation      
+:---------------------------|:-----------------
+ 4.x  	                     | 1.0.x            
+ 5.0.x                      | 2.0.x            
+ 5.1.x\|5.3.x               | 2.1.x            
+ 5.4.x                      | 2.2.x            
+ 5.5.x                      | 2.3.x and higher 
+ 5.6.x                      | 2.3.x and higher 
+ 6.x\|7.x                   | 2.4.x and higher 
+ 8.x\|9.x\|10.x\|11.x\|12.x | 2.4.x and higher
 ## Features overview
 
  - Allow dynamic changes to the site's text and translations.
