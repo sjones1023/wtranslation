@@ -1,5 +1,5 @@
 {
-    "name": "sjones1023/translation",
+    "name": "sjones1023/wtranslation",
     "description": "A Translation package for Laravel 8/9/10/11 with database and cache support",
     "keywords": [
         "waavi",
